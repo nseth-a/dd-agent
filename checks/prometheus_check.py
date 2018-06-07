@@ -3,5 +3,3 @@
 # Licensed under Simplified BSD License (see LICENSE)
 
 from datadog_checks.checks.prometheus.prometheus_base import PrometheusCheck
-
-from checks import AgentCheck
